@@ -4,4 +4,4 @@ services:
     image: bkimminich/juice-shop
     container_name: juice-shop
     ports:
-      - "3008:3000"
+      - "3000:3000"
