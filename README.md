@@ -16,7 +16,7 @@ Este laboratorio usa **OWASP Juice Shop**, una aplicación web diseñada con vul
 
 ## 🧪 Ejercicios de práctica
 
-### 1. Exploración de rutas ocultas – robots.txt y /ftp
+### 1. Exploración de rutas ocultas
 
 **Objetivo:** Mostrar cómo un archivo de configuración mal usado puede revelar directorios sensibles.
 
@@ -28,7 +28,7 @@ Este laboratorio usa **OWASP Juice Shop**, una aplicación web diseñada con vul
 
 ---
 
-### 2. Inyección SQL – Ingreso sin contraseña
+### 2. Inyección SQL
 
 **Objetivo:** Mostrar cómo una validación deficiente permite entrar sin credenciales.
 
@@ -45,7 +45,7 @@ Este laboratorio usa **OWASP Juice Shop**, una aplicación web diseñada con vul
 
 ---
 
-### 3. DOM XSS – Rickroll con iframe de YouTube
+### 3. DOM XSS
 
 **Objetivo:** Demostrar cómo se puede inyectar código malicioso en el buscador.
 
